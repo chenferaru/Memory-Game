@@ -1,0 +1,12 @@
+C:\Users\chenf\source\repos\memoryGame\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\chenf\source\repos\memoryGame\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\UI.exe.config
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\UI.exe
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\UI.pdb
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\Engine.dll
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\Engine.pdb
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\Engine.dll.config
+C:\Users\chenf\source\repos\memoryGame\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\chenf\source\repos\memoryGame\UI\obj\Debug\UI.exe
+C:\Users\chenf\source\repos\memoryGame\UI\obj\Debug\UI.pdb
+C:\Users\chenf\source\repos\memoryGame\UI\bin\Debug\Ex02.ConsoleUtils.dll

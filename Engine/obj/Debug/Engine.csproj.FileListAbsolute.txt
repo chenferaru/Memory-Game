@@ -1,0 +1,7 @@
+C:\Users\chenf\source\repos\memoryGame\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\chenf\source\repos\memoryGame\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\chenf\source\repos\memoryGame\Engine\bin\Debug\Engine.dll.config
+C:\Users\chenf\source\repos\memoryGame\Engine\bin\Debug\Engine.dll
+C:\Users\chenf\source\repos\memoryGame\Engine\bin\Debug\Engine.pdb
+C:\Users\chenf\source\repos\memoryGame\Engine\obj\Debug\Engine.dll
+C:\Users\chenf\source\repos\memoryGame\Engine\obj\Debug\Engine.pdb
